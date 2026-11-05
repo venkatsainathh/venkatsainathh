@@ -34,25 +34,6 @@ Core member, CSI chapter
 | Design | Figma, Canva, Adobe Photoshop |
 | Operating systems | Linux, Ubuntu, Windows, macOS |
 
-## Selected projects
-
-### 🚦 Recognition of Road Signs
-A traffic sign recognition project using convolutional neural networks to classify road signs, exploring applications in driver assistance and autonomous vehicles.
-
-**Technologies:** Python · CNNs · Deep Learning · Image Classification
-
-### 💡 Smart Renewable Street Light System
-A street lighting system combining solar power and IR sensors for vehicle detection, with mobile monitoring and an emergency response feature.
-
-**Technologies:** Arduino UNO · Python · IR Sensors · Solar Panels
-
-### 📚 Online Course Management System
-A web application for course registration and enrollment, designed to simplify course administration for students and institutions.
-
-**Technologies:** PHP · MySQL · HTML · JavaScript · AJAX · jQuery · XAMPP
-
-[Explore my portfolio →](https://venkatsainathh.github.io/Portfolio/)
-
 ## Let's connect
 
 - **LinkedIn:** [Venkat Gangavarapu](https://www.linkedin.com/in/venkat-sainath-reddy-gangavarapu/)
