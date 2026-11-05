@@ -15,11 +15,11 @@ I enjoy turning ideas into practical applications, combining a foundation in com
 ## Education
 
 **University of Maryland — Robert H. Smith School of Business**  
-Master of Science in Information Systems · 2024–2025  
+Master of Science in Information Systems  
 Terrapin Scholar · MSIS Track Representative
 
 **Vellore Institute of Technology, Amaravati**  
-Computer Science & Engineering · 2020–2024  
+Computer Science & Engineering  
 Core member, CSI chapter
 
 ## Skills & tools
