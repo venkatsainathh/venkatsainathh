@@ -1,43 +1,67 @@
-# Hi, I'm Venkat Gangavarapu 👋
+<div align="center">
 
-### Software development · Information systems · Data-driven solutions
+# Venkat Gangavarapu
 
-I enjoy turning ideas into practical applications, combining a foundation in computer science with an interest in technology and business. My projects span web development, deep learning, and smart systems.
+### Software Engineer
 
-[Portfolio](https://venkatsainathh.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/venkat-sainath-reddy-gangavarapu/) · [Email](mailto:venkatsainathreddyg@gmail.com)
+**Distributed systems · Cloud infrastructure · Applied AI**
 
-## About me
+Building reliable services, thoughtful web applications, and practical AI workflows.
 
-- Background in Information Systems and Computer Science & Engineering.
-- Interested in building useful applications, working with data, and solving practical problems.
-- Open to connecting with developers and collaborating on projects.
+[LinkedIn](https://www.linkedin.com/in/venkat-sainath-reddy-gangavarapu/) &nbsp;·&nbsp; [Portfolio](https://venkatsainathh.github.io/Portfolio/) &nbsp;·&nbsp; [Email](mailto:venkatsainath0822@gmail.com)
 
-## Education
+<br>
 
-**University of Maryland — Robert H. Smith School of Business**  
+<img alt="Go" src="https://img.shields.io/badge/Go-0F172A?style=for-the-badge&logo=go&logoColor=00ADD8" />
+<img alt="Python" src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img alt="React" src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+
+</div>
+
+---
+
+### About me
+
+I’m a software engineer focused on distributed systems, event-driven microservices, and web applications. I work with Go, Python, Node.js, and React, alongside AWS and Kubernetes, to build scalable applications.
+
+My technical interests include API design, database performance, and integrating retrieval-augmented generation (RAG) and LLM workflows into useful software.
+
+### Technical toolkit
+
+| Focus | Technologies |
+| :--- | :--- |
+| **Languages** | Go, Python, Java, JavaScript, TypeScript, SQL, Bash |
+| **Frontend** | React, HTML, CSS |
+| **Backend & APIs** | Node.js, Express.js, FastAPI, Django, REST, GraphQL, gRPC |
+| **Cloud & containers** | AWS (EC2, S3), Docker, Kubernetes, Helm |
+| **Delivery & automation** | GitHub Actions, Jenkins, Bitbucket Pipelines, CI/CD |
+| **Data & messaging** | PostgreSQL, Snowflake, MongoDB, Redis, Apache Kafka, RabbitMQ, Apache Spark |
+| **AI & retrieval** | LangGraph, LangChain, RAG, Pinecone, ChromaDB |
+| **Testing & tools** | PyTest, Selenium, Postman, Linux |
+
+### Education
+
+**University of Maryland, College Park**  
 Master of Science in Information Systems  
-Terrapin Scholar · MSIS Track Representative
+Robert H. Smith School of Business · Terrapin Scholar · MSIS Track Representative
 
 **Vellore Institute of Technology, Amaravati**  
 Computer Science & Engineering  
 Core member, CSI chapter
 
-## Skills & tools
+### Credential
 
-| Area | Technologies |
-| --- | --- |
-| Programming | Python, Java, JavaScript, PHP |
-| Databases | SQL, PL/SQL, MySQL |
-| Web development | HTML, CSS, AJAX, jQuery |
-| Platforms & tools | Oracle APEX, GitHub, Postman, Power BI |
-| Machine learning & hardware | CNNs, image classification, Arduino UNO |
-| Design | Figma, Canva, Adobe Photoshop |
-| Operating systems | Linux, Ubuntu, Windows, macOS |
+**AWS Academy Graduate — Cloud Foundations**  
+Training badge
 
-## Let's connect
+---
 
-- **LinkedIn:** [Venkat Gangavarapu](https://www.linkedin.com/in/venkat-sainath-reddy-gangavarapu/)
-- **Email:** [venkatsainathreddyg@gmail.com](mailto:venkatsainathreddyg@gmail.com)
-- **Portfolio:** [venkatsainathh.github.io/Portfolio](https://venkatsainathh.github.io/Portfolio/)
-- **Instagram:** [@v3nkxt_v22](https://www.instagram.com/v3nkxt_v22/)
-- **X:** [@v3nkxt_v22](https://x.com/v3nkxt_v22)
+<div align="center">
+
+**Let’s connect**
+
+[LinkedIn](https://www.linkedin.com/in/venkat-sainath-reddy-gangavarapu/) &nbsp;·&nbsp; [Portfolio](https://venkatsainathh.github.io/Portfolio/) &nbsp;·&nbsp; [Email](mailto:venkatsainath0822@gmail.com) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/v3nkxt_v22/) &nbsp;·&nbsp; [X](https://x.com/v3nkxt_v22)
+
+</div>
